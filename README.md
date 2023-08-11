@@ -14,6 +14,7 @@ Install the project dependencies by running:
 Copy code
 
 npm install
+
 Start the React development server:
 
 Copy code
