@@ -1,0 +1,28 @@
+{
+  "scenarios": [
+    {
+      "name": "test",
+      "time": "2",
+      "vehicles": 0,
+      "id": 1
+    }
+  ],
+  "vehicle": [
+    {
+      "vehicleName": "vh1",
+      "speed": "2",
+      "positionX": 250,
+      "positionY": 250,
+      "direction": "Backward",
+      "id": 2
+    },
+    {
+      "vehicleName": "vh2",
+      "speed": "3",
+      "positionX": "240",
+      "positionY": "240",
+      "direction": "Downward",
+      "id": 3
+    }
+  ]
+}

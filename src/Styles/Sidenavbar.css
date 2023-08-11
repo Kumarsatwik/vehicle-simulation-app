@@ -1,0 +1,19 @@
+.maindiv{
+    background-color: rgb(189, 186, 186);
+    width: 340px;
+    height: 900px
+}
+h2{
+    padding: 15px 2px 15px 20px;
+
+}
+.maindiv h2:hover{
+    color: rgb(38, 151, 151);
+    background-color: rgb(221, 217, 217);
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: rgb(24, 24, 24);
+}
+

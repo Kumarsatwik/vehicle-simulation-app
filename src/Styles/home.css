@@ -1,0 +1,38 @@
+.container {
+    width: 94%;
+    margin: 0 auto;
+  }
+  
+  .container select{
+  margin-left: 36px;
+  }
+  .container h4{
+  margin-left: 36px;
+  color: white;
+ }
+  .edit-popup {
+    position: absolute;
+    z-index: 9;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: black;
+    padding: 36px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .edit-popup input {
+    margin-bottom: 8px;
+  }
+  
+  .edit-popup button {
+    margin-right: 8px;
+    background-color: black;
+  }
+  h3{
+    color: black;
+  }
+ #simulationdiv{
+  padding: 64px;
+ }
